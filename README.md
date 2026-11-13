@@ -1,4 +1,6 @@
-# Fine-tuning behavioural cloning policies with preference-based RL
+# RLHF for robots: a policy that learns from human preferences
+
+*Fine-tuning behavioural cloning policies with preference-based reinforcement learning.*
 
 ![From imitation to preference-based fine-tuning](assets/miniature.png)
 
